@@ -1,0 +1,16 @@
+{
+  "connection_id": "efc63274-5d90-42ee-ad7f-60d6eb77c1cf",
+  "my_did": "7pBbpBo9vxQje3WrdKrzLe",
+  "accept": "manual",
+  "their_role": "inviter",
+  "their_public_did": "F6dB7dMVHUQSC64qemnBi7",
+  "updated_at": "2021-07-05 12:16:01.907733Z",
+  "created_at": "2021-07-05 12:16:01.895979Z",
+  "connection_protocol": "didexchange/1.0",
+  "routing_state": "none",
+  "request_id": "98c91f5d-beb7-447d-bd4b-90e8acfa7524",
+  "their_did": "F6dB7dMVHUQSC64qemnBi7",
+  "invitation_mode": "once",
+  "state": "request",
+  "rfc23_state": "request-sent"
+}

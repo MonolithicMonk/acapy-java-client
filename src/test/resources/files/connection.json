@@ -1,0 +1,16 @@
+{
+    "invitation_key": "8gdhRLtvJHzKoJGyuEqgdN1QZGYfai4wMHFGgtfDXg3D",
+    "invitation_mode": "once",
+    "their_label": "bob",
+    "their_role": "inviter",
+    "connection_protocol": "connections/1.0",
+    "rfc23_state": "request-sent",
+    "accept": "auto",
+    "routing_state": "none",
+    "updated_at": "2021-07-05 12:27:31.979933Z",
+    "their_did": "CsqqtKN3Se89LoV5MPGC8Z",
+    "state": "request",
+    "my_did": "XWKk9DP2ZBKMmiwLSAAdE9",
+    "connection_id": "bc349b33-00cd-4419-a432-82cdf7142bd7",
+    "created_at": "2021-07-05 12:27:31.979933Z"
+}
