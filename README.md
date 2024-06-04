@@ -1,7 +1,7 @@
 # ACA-PY Java Client Library
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
-[![CI/CD](https://github.com/hyperledger-labs/acapy-java-client/workflows/CI/CD/badge.svg)](https://github.com/hyperledger-labs/acapy-java-client/actions?query=workflow%3ACI%2FCD+branch%3Amain)
+[![CI/CD](https://github.com/MonolithicMonk/acapy-java-client/workflows/CI/CD/badge.svg)](https://github.com/MonolithicMonk/acapy-java-client/actions?query=workflow%3ACI%2FCD+branch%3Amain)
 ![Maven Central](https://img.shields.io/maven-central/v/com.dgateman.acapy/aries-client-python)
 
 Convenience library based on okhttp and gson to interact with [aries cloud agent python](https://github.com/hyperledger/aries-cloudagent-python) (aca-py) instances.
