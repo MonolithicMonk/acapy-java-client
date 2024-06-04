@@ -8,13 +8,27 @@
 
 Convenience library based on okhttp and gson to interact with [aries cloud agent python](https://github.com/hyperledger/aries-cloudagent-python) (aca-py) instances.
 
-## Use it in your project
+## Use it in your project using `jitpack.io`
+
+
+#### Add the jitpack repository to your project
+
+```xml
+<repositories>
+  <repository>
+      <id>jitpack.io</id>
+      <url>https://jitpack.io</url>
+  </repository>
+</repositories>
+```
+
+#### Add the dependency
 
 ```xml
 <dependency>
-   <groupId>com.monolithicmonk.acapy</groupId>
-   <artifactId>aries-client-python</artifactId>
-   <version>0.10.0</version>
+   <groupId>com.github.MonolithicMonk</groupId>
+   <artifactId>acapy-java-client</artifactId>
+   <version>0.10.1</version>
 </dependency>
 ```
 
