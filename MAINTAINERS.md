@@ -1,6 +1,6 @@
 ## Maintainers
 
 ### Active Maintainers
-| name            | Github                                   | Discord       |
-|-----------------|------------------------------------------|---------------|
-| Philipp Etschel | [@etschelp](https://github.com/etschelp) | etschelp#7436 |
+| name            | Github                                               | Discord       |
+|-----------------|------------------------------------------------------|---------------|
+| Yuki I          | [@MonolithicMonk](https://github.com/MonolithicMonk) |               |
